@@ -13,6 +13,13 @@
 .text-logo-sm {
     font-size: 46px;
 }
+.main-page {
+    padding: 30px 0 170px;
+    background-image: url('../img/main.png');
+    background-position: 95% 80%;
+    background-size: 50%;
+    background-repeat: no-repeat;
+}
 
 .platform-img {
     background-image: url('../img/platform.svg');
@@ -26,7 +33,6 @@
 .for-who {
     padding: 100px 0 450px;
     background-image: url('../img/bgBlue.png');
-
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: 100% 1390px;
@@ -49,13 +55,17 @@
 }
 
 .try-it {
-    position: relative;
     padding: 470px 0;
     margin-top: -220px;
     background-image: url(../img/bgBlueRight.png);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: 100% 1568px;
-    color: #fff;
     text-align: center;
+}
+
+.nav-bar {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
 }
