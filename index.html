@@ -69,14 +69,14 @@
         <div class="sm:hidden" id="mobile-menu">
             <div class="px-2 pt-2 pb-3 space-y-1">
                 <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-                <a href="#" class="bg-gray-900 text-white block px-3 py-2 rounded-md text-base font-medium"
-                   aria-current="page">Dashboard</a>
+                <a href="#" class="text-blue-500 block px-3 py-2 rounded-md text-base font-medium"
+                   aria-current="page">О платформе</a>
 
                 <a href="#"
-                   class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Team</a>
+                   class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">API</a>
 
                 <a href="#"
-                   class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Projects</a>
+                   class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Документация</a>
 
             </div>
             <div class="px-2 pt-2 pb-3 space-y-1">
@@ -119,10 +119,10 @@
                                 возможности речевых технологий через API
                             </div>
                             <div class="">
-                                <button class="border lg:px-12 lg:py-3.5 md:px-4 md:py-1 rounded-md bg-blue-500 hover:bg-blue-600">
+                                <button class="border lg:px-12 lg:py-3.5 md:px-4 md:py-1 py-1 px-4 rounded-md bg-blue-500 hover:bg-blue-600">
                                     <span class="text-white text-base">Узнать больше</span>
                                 </button>
-                                <button class="border lg:px-12 lg:py-3.5 md:px-4 md:py-1 rounded-md border-blue-500">
+                                <button class="border lg:px-12 lg:py-3.5 md:px-4 md:py-1 py-1 px-4 rounded-md border-blue-500">
                                     <span class="text-blue-500 text-base">Попробовать</span>
                                 </button>
                             </div>
@@ -679,7 +679,7 @@
                     </div>
                     <!--grid-->
                     <div class="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-4 pb-12">
-                        <div>
+                        <div class="flex items-center">
                             <img src="./img/audioWave.png" alt="">
                         </div>
                         <div class="space-y-6">
@@ -742,10 +742,10 @@
     <!--container-->
     <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8 py-12">
         <!--grid-->
-        <div class="grid grid-flow-col grid-cols-2 gap-4 pb-12 text-white">
-            <div class="flex justify-between mr-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 pb-12 text-white">
+            <div class="flex justify-between mr-8 mt-16">
                 <div>
-                    <img src="" alt="">
+                    <img class="w-36" src="./img/icon/microphone.svg" alt="">
                 </div>
                 <div class="space-y-6">
                     <div class="text-xl font-bold">
@@ -758,7 +758,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="grid grid-flow-col grid-cols-2 gap-4 ml-8 pb-12">
+            <div class="grid grid-cols-2 gap-4 lg:ml-8 md:ml-8 pb-12 mt-16">
                 <div class="space-y-6">
                     <div class="text-xl font-bold">
                         API
