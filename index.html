@@ -13,7 +13,7 @@
 </head>
 <body>
 <header>
-    <nav class="nav-bar bg-white shadow-lg py-4 fixed w-full">
+    <nav class="nav-bar bg-white shadow-lg py-4 fixed w-full z-20">
         <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
             <div class="relative flex items-center justify-between h-16">
                 <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
@@ -53,12 +53,12 @@
                                    class="text-base text-gray-500 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Документация</a>
                             </div>
                             <div class="">
-                                <button class="border lg:px-12 lg:py-3.5 md:px-4 md:py-1 sm:py-1 sm:px-2 rounded-md border-blue-500">
+                                <a href="./login.html" class="border lg:px-12 lg:py-3.5 md:px-4 md:py-1 sm:py-1 sm:px-2 rounded-md border-blue-500">
                                     <span class="text-blue-500 text-base">Войти</span>
-                                </button>
-                                <button class="border lg:px-12 lg:py-3.5 md:px-4 md:py-1 sm:py-1 sm:px-2 rounded-md bg-blue-500 hover:bg-blue-600">
+                                </a>
+                                <a href="./register.html" class="border lg:px-12 lg:py-3.5 md:px-4 md:py-1 sm:py-1 sm:px-2 rounded-md bg-blue-500 hover:bg-blue-600">
                                     <span class="text-white text-base">Регистрация</span>
-                                </button>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -83,12 +83,12 @@
                 </a>
             </div>
             <div class="px-2 pt-2 pb-3 space-y-1">
-                <button class="border px-4 py-1 rounded-md border-blue-500">
+                <a href="./login.html" class="border px-4 py-1 rounded-md border-blue-500">
                     <span class="text-blue-500 text-base">Войти</span>
-                </button>
-                <button class="border px-4 py-1 rounded-md bg-blue-500 hover:bg-blue-600">
+                </a>
+                <a href="./register.html" class="border px-4 py-1 rounded-md bg-blue-500 hover:bg-blue-600">
                     <span class="text-white text-base">Регистрация</span>
-                </button>
+                </a>
             </div>
         </div>
     </nav>
@@ -150,9 +150,13 @@
                                 </div>
                                 <!--grid-->
                                 <div class="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-4 pb-12">
-                                    <div class="">
-                                        <div class="bg-gradient-to-r from-green-400 to-blue-500 p-6">
-                                            <img src="./img/audioWave.png" alt=""/>
+                                    <div class="static">
+                                        <div class="m-8 flex items-center">
+                                            <div class="card bg-blue-400 rounded-lg ml-12 mt-12 px-8 py-4 text-white absolute">
+                                                <img class="w-72 " src="./img/icon/soundWave.svg" alt=""/>
+                                            </div>
+                                            <div class="card w-80 h-80 bg-gray-400 rounded-lg px-8 py-4 text-white">
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="text-left space-y-6 px-4">
@@ -754,12 +758,40 @@
         <div class="flex items-center justify-between text-center">
             <a href="#" class="float-left"><img src="./img/3itech.png" alt=""/></a>
             <div class="text-white">
-                © 2021 3iTech
+                <button class="fBtn">
+                    © 2021 3iTech
+                </button>
+                <div class="text hidden">
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium aliquam
+                        distinctio dolores enim harum illo, impedit officiis quaerat saepe.
+                    </p>
+                </div>
             </div>
         </div>
     </div>
 </footer>
 
 <script src="./js/script.js"></script>
+<script>
+    /*const ownBtn = document.querySelector('.fBtn');
+    const ownTxt = document.querySelector('.text');
+    ownBtn.addEventListener('click', () => {
+        return (
+            ownBtn.style.backgroundColor = 'red',
+            ownTxt.classList = 'block text-2xl font-bold text-red'
+        )
+    });*/
+
+    /*const name = prompt("What's your name?", '');
+    alert(`Hello my new friend ${name}`);*/
+
+    /*const num = 'abcde';
+    alert(num[0]);
+    alert(num[2]);
+    alert(num[4]);*/
+
+
+</script>
 </body>
 </html>
