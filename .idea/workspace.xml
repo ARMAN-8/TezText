@@ -3,6 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="ac795c3f-57d7-4ccf-ac01-70f418615c8e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech-kit-extended/about-technology-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/about-technology-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech-kit-extended/audio-formats.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/audio-formats.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech-kit-extended/available-zones.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/available-zones.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech-kit-extended/begin-sp.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/begin-sp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech-kit-extended/begin.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/begin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech-kit-extended/billing-account.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/billing-account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech-kit-extended/docs-speechkit.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/docs-speechkit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech-kit-extended/long-audio-recognition.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/long-audio-recognition.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech-kit-extended/releases-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/releases-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech-kit-extended/service-stages.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/service-stages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech-kit-extended/short-audio-recognition-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/short-audio-recognition-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech-kit-extended/sign-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/sign-in.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech-kit-extended/speech-synthesis.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/speech-synthesis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech-kit-extended/streaming-recognition-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/streaming-recognition-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech-kit-extended/telephony-integration.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/telephony-integration.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/speech-kit-extended" />
   </component>
   <component name="ProjectId" id="1t6xMRVBwaRmzEomRJvibU2AdRO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -83,7 +98,7 @@
       <workItem from="1623032964331" duration="18151000" />
       <workItem from="1623292990502" duration="12987000" />
       <workItem from="1623378529426" duration="1483000" />
-      <workItem from="1624244021835" duration="5013000" />
+      <workItem from="1624244021835" duration="7478000" />
     </task>
     <task id="LOCAL-00001" summary="desktop version is completed">
       <created>1622525238016</created>
@@ -183,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624252983347</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="little fixes">
+      <created>1624253288758</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1624253288758</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,20 +232,20 @@
     <MESSAGE value="added login/register paths" />
     <MESSAGE value="I don't know what is this" />
     <MESSAGE value="api, documentation." />
-    <MESSAGE value="little fixes" />
     <MESSAGE value="what is this?" />
-    <option name="LAST_COMMIT_MESSAGE" value="what is this?" />
+    <MESSAGE value="little fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="little fixes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622188367717">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1622188367717" />
-    <state x="489" y="0" key="CommitChangelistDialog2" timestamp="1624252982565">
+    <state x="489" y="0" key="CommitChangelistDialog2" timestamp="1624253287996">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="391" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1623070950052" />
-    <state x="489" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1624252982565" />
+    <state x="489" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1624253287996" />
     <state x="116" y="117" width="1688" height="806" key="DiffContextDialog" timestamp="1624252880314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -243,11 +265,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622104292827" />
-    <state x="451" y="162" key="Vcs.Push.Dialog.v2" timestamp="1624252985000">
+    <state x="451" y="162" key="Vcs.Push.Dialog.v2" timestamp="1624253290283">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="361" y="128" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1623070952701" />
-    <state x="451" y="162" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624252985000" />
+    <state x="451" y="162" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624253290283" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1622523598698">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
