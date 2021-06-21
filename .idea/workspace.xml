@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/speech-kit-extended/about-technology-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/about-technology-1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/speech-kit-extended/audio-formats.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/audio-formats.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/speech-kit-extended/available-zones.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/available-zones.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/speech-kit-extended/begin-sp.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/begin-sp.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/speech-kit-extended/begin.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/begin.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/speech-kit-extended/billing-account.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/billing-account.html" afterDir="false" />
@@ -98,7 +97,7 @@
       <workItem from="1623032964331" duration="18151000" />
       <workItem from="1623292990502" duration="12987000" />
       <workItem from="1623378529426" duration="1483000" />
-      <workItem from="1624244021835" duration="7478000" />
+      <workItem from="1624244021835" duration="10008000" />
     </task>
     <task id="LOCAL-00001" summary="desktop version is completed">
       <created>1622525238016</created>
@@ -205,7 +204,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624253288758</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="path fixed">
+      <created>1624262283085</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1624262283085</updated>
+    </task>
+    <task id="LOCAL-00017" summary="I don't know what is this">
+      <created>1624262395949</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1624262395949</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,22 +243,23 @@
     <MESSAGE value="final chages" />
     <MESSAGE value="changed header" />
     <MESSAGE value="added login/register paths" />
-    <MESSAGE value="I don't know what is this" />
     <MESSAGE value="api, documentation." />
     <MESSAGE value="what is this?" />
     <MESSAGE value="little fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="little fixes" />
+    <MESSAGE value="path fixed" />
+    <MESSAGE value="I don't know what is this" />
+    <option name="LAST_COMMIT_MESSAGE" value="I don't know what is this" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622188367717">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1622188367717" />
-    <state x="489" y="0" key="CommitChangelistDialog2" timestamp="1624262280992">
+    <state x="489" y="0" key="CommitChangelistDialog2" timestamp="1624262395189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="391" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1623070950052" />
-    <state x="489" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1624262280992" />
+    <state x="489" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1624262395189" />
     <state x="116" y="117" width="1688" height="806" key="DiffContextDialog" timestamp="1624252880314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -256,20 +270,20 @@
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1623124191586" />
     <state x="686" y="212" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1624244870377" />
-    <state x="803" y="49" key="RollbackChangesDialog" timestamp="1624252907934">
+    <state x="803" y="49" key="RollbackChangesDialog" timestamp="1624272016025">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="642" y="39" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1622686888993" />
-    <state x="803" y="49" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624252907934" />
+    <state x="803" y="49" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624272016025" />
     <state x="277" y="56" key="SettingsEditor" timestamp="1622104292827">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622104292827" />
-    <state x="451" y="162" key="Vcs.Push.Dialog.v2" timestamp="1624262284572">
+    <state x="451" y="162" key="Vcs.Push.Dialog.v2" timestamp="1624262396971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="361" y="128" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1623070952701" />
-    <state x="451" y="162" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624262284572" />
+    <state x="451" y="162" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624262396971" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1622523598698">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
