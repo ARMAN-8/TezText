@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac795c3f-57d7-4ccf-ac01-70f418615c8e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech-kit-extended/api.html" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/api.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech-kit-extended/css/media-queries.css" beforeDir="false" afterPath="$PROJECT_DIR$/speech-kit-extended/css/media-queries.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech-kit-extended/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../speech-kit-extended" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -83,6 +90,7 @@
       <workItem from="1623032964331" duration="18151000" />
       <workItem from="1623292990502" duration="12987000" />
       <workItem from="1623378529426" duration="1483000" />
+      <workItem from="1624244021835" duration="4724000" />
     </task>
     <task id="LOCAL-00001" summary="desktop version is completed">
       <created>1622525238016</created>
@@ -133,7 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623296393425</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="changed header">
+      <created>1624249269936</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1624249269936</updated>
+    </task>
+    <task id="LOCAL-00009" summary="changed header">
+      <created>1624252779947</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1624252779947</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,26 +168,29 @@
     <MESSAGE value="same commit" />
     <MESSAGE value="final chages" />
     <MESSAGE value="little fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="little fixes" />
+    <MESSAGE value="changed header" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed header" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622188367717">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1622188367717" />
-    <state x="489" y="0" key="CommitChangelistDialog2" timestamp="1623322498191">
+    <state x="489" y="0" key="CommitChangelistDialog2" timestamp="1624252847614">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="391" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1623070950052" />
-    <state x="489" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1623322498191" />
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1622686798331">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="489" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1624252847614" />
+    <state x="116" y="117" width="1688" height="806" key="DiffContextDialog" timestamp="1624252880314">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1622686798331" />
-    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1623124191586">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="116" y="117" width="1688" height="806" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624252880314" />
+    <state x="686" y="212" key="FileChooserDialogImpl" timestamp="1624244870377">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1623124191586" />
+    <state x="686" y="212" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1624244870377" />
     <state x="642" y="39" key="RollbackChangesDialog" timestamp="1622686888993">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -174,11 +199,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622104292827" />
-    <state x="451" y="162" key="Vcs.Push.Dialog.v2" timestamp="1623322532752">
+    <state x="451" y="162" key="Vcs.Push.Dialog.v2" timestamp="1624252849906">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="361" y="128" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1623070952701" />
-    <state x="451" y="162" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1623322532752" />
+    <state x="451" y="162" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624252849906" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1622523598698">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
